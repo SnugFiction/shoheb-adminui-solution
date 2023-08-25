@@ -1,0 +1,15 @@
+.NextButtons {
+  display: inline-flex;
+  justify-content: center;
+  gap: 10px;
+  width: 80%;
+  margin-top: 1rem;
+}
+
+.FooterButtons {
+  background-color: lightblue;
+  color: white;
+  border-color: white;
+  height: 30px;
+  border-radius: 10px;
+}

@@ -1,0 +1,12 @@
+.SearchBar {
+  height: 1.5rem;
+  width: 99%;
+  border: 1px solid #d3d3d3;
+}
+
+.centerSearchBar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

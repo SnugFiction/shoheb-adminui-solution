@@ -1,0 +1,13 @@
+.DeleteButtonSelected {
+  height: 30px;
+  border-radius: 10px;
+  background-color: red;
+  color: white;
+  border-color: red;
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.MakeInlineBlock {
+  display: inline-flex;
+}

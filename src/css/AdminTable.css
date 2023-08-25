@@ -1,0 +1,38 @@
+.Header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.TableHeader {
+  width: 99%;
+  height: 3rem;
+}
+
+.DrawBorderButtom {
+  border-bottom: 1px solid lightgray;
+  height: 50px;
+}
+
+.TableRow {
+  text-align: center;
+}
+
+.DeleteButton {
+  background-color: red;
+  color: white;
+  margin-left: 10px;
+  border-color: red;
+  border-radius: 5px;
+}
+
+.EditButton {
+  border-color: white;
+  border-radius: 5px;
+}
+
+.MakeGreyBackground {
+  background-color: lightgray;
+  text-align: center;
+}
